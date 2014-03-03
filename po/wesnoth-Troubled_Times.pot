@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Troubled_Times-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-27 17:51-0400\n"
+"POT-Creation-Date: 2014-03-03 21:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "TT"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Troubled_Times, type=mp
-#: ./Troubled_Times/_main.cfg:26
+#: ./Troubled_Times/_main.cfg:27
 msgid ""
 "Deep into the forests there were a small elvish village, living a calm life. Until suddently one day ...\n"
 "\n"
@@ -29,57 +29,57 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Troubled_Times, type=mp
-#: ./Troubled_Times/_main.cfg:28
+#: ./Troubled_Times/_main.cfg:29
 msgid "(Novice level, 11 scenarios)"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Troubled_Times, type=mp
-#: ./Troubled_Times/_main.cfg:29
+#: ./Troubled_Times/_main.cfg:30
 msgid "(Normal)"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Troubled_Times, type=mp
-#: ./Troubled_Times/_main.cfg:29
+#: ./Troubled_Times/_main.cfg:30
 msgid "Civilian"
 msgstr ""
 
 #. [about]
-#: ./Troubled_Times/_main.cfg:34
+#: ./Troubled_Times/_main.cfg:33
 msgid "Srory"
 msgstr ""
 
 #. [about]
-#: ./Troubled_Times/_main.cfg:46
+#: ./Troubled_Times/_main.cfg:45
 msgid "Technical implementation"
 msgstr ""
 
 #. [about]
-#: ./Troubled_Times/_main.cfg:55
+#: ./Troubled_Times/_main.cfg:54
 msgid "Special thanks for everybody helping the make of this campaign!"
 msgstr ""
 
 #. [entry]
-#: ./Troubled_Times/_main.cfg:57
+#: ./Troubled_Times/_main.cfg:56
 msgid "Testers"
 msgstr ""
 
 #. [entry]
-#: ./Troubled_Times/_main.cfg:60
+#: ./Troubled_Times/_main.cfg:59
 msgid "Anyone giving ideas or tips"
 msgstr ""
 
 #. [entry]
-#: ./Troubled_Times/_main.cfg:63
+#: ./Troubled_Times/_main.cfg:62
 msgid "Wesnoth developers"
 msgstr ""
 
 #. [entry]
-#: ./Troubled_Times/_main.cfg:66
+#: ./Troubled_Times/_main.cfg:65
 msgid "#wesnoth irc channel"
 msgstr ""
 
 #. [about]
-#: ./Troubled_Times/_main.cfg:70
+#: ./Troubled_Times/_main.cfg:69
 msgid "Campaign Maintenance"
 msgstr ""
 
@@ -108,34 +108,29 @@ msgstr ""
 msgid "Troubled Times - Attack to the Elf City"
 msgstr ""
 
-#. [scenario]: id=TT_01_attack_to_elf_city
-#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:12
-msgid "Troubled Times: End of the Peace"
-msgstr ""
-
 #. [side]: type=Orcish Slayer
-#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:47
+#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:43
 msgid "Assassins"
 msgstr ""
 
 #. [side]: type=Orcish Slayer
-#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:51
+#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:47
 msgid "Grunt"
 msgstr ""
 
 #. [message]: type=Elvish High Lord
 #. [unit]: type=Elvish High Lord
-#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:100 ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:121
+#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:96 ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:117
 msgid "Qinthalash's father"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:114
+#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:110
 msgid "There was a little elf city deep in the forests. The people were having good times, but suddenly something happened..."
 msgstr ""
 
 #. [message]: type=Elvish High Lord
-#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:120
+#: ./Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:116
 msgid "It is such a nice day today."
 msgstr ""
 
